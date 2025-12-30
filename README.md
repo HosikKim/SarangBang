@@ -1,12 +1,10 @@
-# 사랑방 🏠
+# 사랑방 - 인지기능향상과 우울증 완화를 돕는 대화형 AI 앱
 <img src="https://i.imgur.com/IHqAdm0.png" width="800" alt="사랑방 메인 화면">
 
 #### 팀명 : 건어물
 ##### 팀원 : 박찬희, 김호식, 이창민, 이은우
 기간 : 25.03.03 ~ 24.06.10
 [Notion](https://violet-brisket-dec.notion.site/Main-Page-1b5e79422805807dbf98f3ad5200c048?pvs=74)
-
-# 종합 프로젝트: 인지기능향상과 우울증 완화를 돕는 대화형 AI 앱
 
 # 1. 프로젝트 주제 및 기획의도
 
