@@ -34,8 +34,8 @@
 <img src="https://i.imgur.com/ieeZs8g.png" width="800" alt="사랑방 서비스구성도">
 
 ## 주요 기능
-<img src="https://i.imgur.com/ahqTWQT.png" width="800" alt="사랑방 주요기능1">
-<img src="https://i.imgur.com/yS2kFK6.png" width="800" alt="사랑방 주요기능2">
+<img src="https://i.imgur.com/W46XF3q.png" width="800" alt="사랑방 주요기능1">
+<img src="https://i.imgur.com/ZD0WDgq.png" width="800" alt="사랑방 주요기능2">
 
 ## 기술 스택
 
