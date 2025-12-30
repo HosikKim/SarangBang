@@ -1,4 +1,4 @@
-# 사랑방 - 인지기능향상과 우울증 완화를 돕는 대화형 AI 앱
+<img width="822" height="454" alt="image" src="https://github.com/user-attachments/assets/e334f324-85ee-4045-bd9f-2cdee8b2e620" /># 사랑방 - 인지기능향상과 우울증 완화를 돕는 대화형 AI 앱
 <img src="https://i.imgur.com/IHqAdm0.png" width="800" alt="사랑방 메인 화면">
 
 ## 프로젝트 개요
@@ -31,7 +31,11 @@
 ---
 
 ## 서비스 구성도
-<img src="https://i.imgur.com/ieeZs8g.png" width="800" alt="사랑방 메인 화면">
+<img src="https://i.imgur.com/ieeZs8g.png" width="800" alt="사랑방 서비스구성도">
+
+## 주요 기능
+<img src="https://i.imgur.com/ahqTWQT.png" width="800" alt="사랑방 주요기능1">
+<img src="https://i.imgur.com/yS2kFK6.png" width="800" alt="사랑방 주요기능2">
 
 ## 기술 스택
 
