@@ -23,6 +23,13 @@
 | 프론트엔드 | 이창민 | Flutter 기반 모바일 개발, UI/UX디자인 | 
 
 ---
+
+|  | 썸네일 및 링크 |
+|----------|----------------|
+| 시연 영상 | [![시연 영상](https://img.youtube.com/vi/u9iYT0dtONE/0.jpg)](https://youtu.be/u9iYT0dtONE) |
+
+---
+
 ## 서비스 구성도
 <img src="https://i.imgur.com/ieeZs8g.png" width="800" alt="사랑방 메인 화면">
 
