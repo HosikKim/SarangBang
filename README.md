@@ -29,6 +29,8 @@
 | 시연 영상 | [![시연 영상](https://img.youtube.com/vi/u9iYT0dtONE/0.jpg)](https://youtu.be/u9iYT0dtONE) |
 
 ---
+## 시스템 아키텍처
+<img src="https://i.imgur.com/IyZAxXw.png" width="800" alt="사랑방 시스템아키텍처">
 
 ## 서비스 구성도
 <img src="https://i.imgur.com/ieeZs8g.png" width="800" alt="사랑방 서비스구성도">
